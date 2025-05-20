@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JS and JS Libraries. I'm familiar with HTML 5 and CSS 3.
 - 💞️ I’m looking to collaborate with other developers to upgrade my knowledge about programming.
 - 📫 How to reach me: https://www.linkedin.com/in/teodor-petrov-6b485a1a1/
+- 🔗 See my Portfolio: https://tedkatapetrov1.github.io/Portfolio2/
 <!---
 tedkatapetrov1/tedkatapetrov1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
